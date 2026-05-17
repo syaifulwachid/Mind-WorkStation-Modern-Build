@@ -12,7 +12,7 @@ A modern, web-based, and desktop-ready clone of the classic **Mind WorkStation**
 ![Mind WorkStation Screenshot](public/screenshot.png)
 
 ### 🎥 Video Demo
-<video src="public/demo_video.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/syaifulwachid/Mind-WorkStation-Modern-Build/raw/main/public/demo_video.mp4" controls="controls" width="100%"></video>
 
 ## 🚀 Features
 
