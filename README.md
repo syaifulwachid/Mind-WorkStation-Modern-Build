@@ -12,6 +12,8 @@ A modern, web-based, and desktop-ready clone of the classic **Mind WorkStation**
 ![Mind WorkStation Screenshot](public/screenshot.png)
 
 ### 🎥 Video Demo
+https://github.com/user-attachments/assets/683e2a86-be6c-4091-a195-4a91af0bc0a2
+
 
 
 ## 🚀 Features
