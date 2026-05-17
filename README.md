@@ -8,7 +8,11 @@
 
 A modern, web-based, and desktop-ready clone of the classic **Mind WorkStation** software. This project aims to bring professional brainwave entrainment, audio stimulation, and biofeedback tools to modern operating systems using web technologies (React, TypeScript, Tone.js, and Electron).
 
-![Mind WorkStation Demo](public/mws_demo_full.webp)
+### 📸 Screenshot
+![Mind WorkStation Screenshot](public/screenshot.png)
+
+### 🎥 Video Demo
+<video src="public/demo_video.mp4" controls="controls" width="100%"></video>
 
 ## 🚀 Features
 
